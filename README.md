@@ -1,10 +1,6 @@
-A feedback-form that i had created by following Brad Traversy on Udemy!
+A feedback-form that I had created by following Brad Traversy on Udemy!
 
-
-[Screenshot 2022-07-12 074741](https://user-images.githubusercontent.com/92092199/178426461-520ebd19-f9c7-42f3-b067-9d69b0857de8.png)
-
-
-
+![Screenshot 2022-07-12 114407](https://user-images.githubusercontent.com/92092199/178472956-0c33e8fd-8ee8-45e0-a3d9-92f1740ac32a.png)
 
 
 
